@@ -1,4 +1,4 @@
-Features:                                                                                                                    
+Features:                                                                                                                   
 [Aimbot]
 - Fov Size
 - Show Fov
